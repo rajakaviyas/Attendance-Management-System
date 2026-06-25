@@ -211,7 +211,7 @@ GET /api/dashboard
 
 ## 👨‍💻 Author
 
-**Rajakaviya S**
+**RAJAKAVIYA S**
 
 
 ---
