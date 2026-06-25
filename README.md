@@ -213,10 +213,7 @@ GET /api/dashboard
 
 **Rajakaviya S**
 
-Final Year Project Submission
 
 ---
 
-## 📄 License
 
-This project is developed for educational and assessment purposes.
